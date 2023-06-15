@@ -62,7 +62,7 @@ img{
     text-shadow: -1px -1px 1px rgba(255, 215, 215, 0.79);
     border: 2px solid #333;
     border-radius: 5px;
-    background-image: url(bg1.png);
+    background-image: url(/bg1.png);
     background-position: center;
     background-size: cover;
 }
@@ -71,7 +71,7 @@ img{
     text-shadow: -1px -1px 1px rgba(255, 215, 215, 0.79);
     border: 2px solid #333;
     border-radius: 5px;
-    background-image: url(bg2.png);
+    background-image: url(/bg2.png);
     background-position: center;
     background-size: cover;
 
@@ -83,7 +83,7 @@ img{
     text-shadow: -1px -1px 1px rgba(255, 215, 215, 0.79);
     border: 2px solid #333;
     border-radius: 5px;
-    background-image: url(bg3.png);
+    background-image: url(/bg3.png);
     background-position: center;
     background-size: cover;
 }
@@ -106,7 +106,7 @@ img{
     padding: .2rem;
     color: #fff;
     cursor: pointer;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     background-color: transparent;
     border-radius: 10px;
 }
@@ -118,7 +118,7 @@ img{
     padding: .4rem;
     cursor: pointer;
     color: #fff;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     background-color: transparent;
     border-radius: 10px;
 }
